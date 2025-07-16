@@ -5,7 +5,9 @@ connect to mysql database
 
 Hello this is Samiran
 
-Connection with my server
+Connection with tomcat Server.
+
+
 
 
 
